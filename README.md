@@ -7,7 +7,6 @@ Exercícios e projetos relacionados ao curso "Python Developer" da Mimo — cole
 - Exemplos que utilizam bibliotecas populares como `requests` para consumir APIs externas.
 
 ## Badges
-- Linguagem: ![Python](https://img.shields.io/badge/Python-100%25-blue)
 - Licença: MIT (ver arquivo LICENSE)
 
 ## Sumário
