@@ -9,6 +9,7 @@ Exercícios e projetos relacionados ao curso "Python Developer" da Mimo — cole
 
 ## Badges
 ![Licença](https://img.shields.io/github/license/GiovanniJorge/python-developer-mimo?style=flat-square)
+![Projetos](https://img.shields.io/badge/quantidade-2%20projetos-blue?style=flat-square)
 
 ## Sumário
 - [Visão geral](#visão-geral)
@@ -30,8 +31,7 @@ Top-level:
 ├── README.md                # Este arquivo
 └── projetos-finais/         # Projetos finais e integrados do curso
     ├── chatgpt-clone.py     # Clone funcional de chatbot usando API OpenAI
-    ├── star-wars-api.py     # Consumo de API Star Wars para listar entidades
-    └── ...                  # Outros subprojetos desenvolvidos nas seções práticas
+    └── star-wars-api.py     # Consumo de API Star Wars para listar entidades
 ```
 
 ### Como se encaixa:
