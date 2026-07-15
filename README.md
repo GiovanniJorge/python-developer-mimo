@@ -32,6 +32,7 @@ Top-level:
 ├── README.md                # Este arquivo
 └── projetos-finais/         # Projetos finais e integrados do curso
     ├── chatgpt-clone.py     # Clone funcional de chatbot usando API OpenAI
+    ├── crypto-craze.py      # Consumo de API Crypto Craze para consulta de criptomoedas
     └── star-wars-api.py     # Consumo de API Star Wars para listar entidades
 ```
 
