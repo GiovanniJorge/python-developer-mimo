@@ -9,7 +9,7 @@ Exercícios e projetos relacionados ao curso "Python Developer" da Mimo — cole
 
 ## Badges
 ![Licença](https://img.shields.io/github/license/GiovanniJorge/python-developer-mimo?style=flat-square)
-![Projetos](https://img.shields.io/badge/quantidade-2%20projetos-blue?style=flat-square)
+![Projetos](https://img.shields.io/badge/quantidade-3%20projetos-blue?style=flat-square)
 
 ## Sumário
 - [Visão geral](#visão-geral)
