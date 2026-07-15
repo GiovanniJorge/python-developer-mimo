@@ -27,6 +27,7 @@ Este repositório organiza pequenos projetos em Python que exemplificam conceito
 Top-level:
 ```text
 ├── .gitattributes
+├── .gitignore
 ├── LICENSE                  # Licença MIT do projeto
 ├── README.md                # Este arquivo
 └── projetos-finais/         # Projetos finais e integrados do curso
